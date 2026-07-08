@@ -1,0 +1,21 @@
+AUTOMATIZACIÓN SEMANA 10
+
+¿Qué evento activa el flujo?
+
+El flujo se activa cuando un ciudadano registra un nuevo reporte en la plataforma comunitaria.
+
+
+¿Qué mensaje se enviaría a Telegram?
+
+"Se ha recibido un nuevo reporte comunitario. Ingresa al sistema para revisar la información y realizar el seguimiento correspondiente."
+
+
+¿Cómo funcionaría la automatización?
+
+Cuando se registra un nuevo reporte, n8n recibe el evento y ejecuta automáticamente el flujo configurado. 
+Después envía una notificación al grupo de Telegram del equipo encargado para informar que existe un nuevo caso pendiente de revisión.
+
+
+¿Qué información no debería enviarse por seguridad?
+
+No se deben enviar nombres completos, números de documentos de identidad, direcciones, números de teléfono, contraseñas, tokens, claves de API ni cualquier otra información personal o sensible de los ciudadanos.

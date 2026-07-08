@@ -1,0 +1,11 @@
+REFLEXIÓN SEMANA 10
+
+Las metodologías ágiles pueden ayudar a una comunidad a organizar mejor el trabajo y establecer cuáles problemas necesitan mayor atención.
+Trabajar por tareas e iteraciones permite avanzar poco a poco y realizar cambios según los resultados y las necesidades de las personas.
+El backlog sirve para mantener organizadas las actividades pendientes y evitar que se olviden situaciones importantes.
+La automatización también puede ahorrar tiempo en tareas repetitivas que no necesitan realizarse manualmente.
+Por ejemplo, n8n puede enviar una alerta cuando se registra un nuevo reporte en una plataforma comunitaria.
+Telegram puede servir como un canal rápido para informar al equipo encargado y mejorar la coordinación.
+Sin embargo, estas herramientas deben utilizarse con responsabilidad y sin compartir información personal o sensible.
+También es importante que las decisiones importantes sigan siendo revisadas por personas y no dependan completamente de la automatización.
+Si se utilizan correctamente, estas herramientas pueden facilitar el seguimiento de los problemas y mejorar la participación de la comunidad.

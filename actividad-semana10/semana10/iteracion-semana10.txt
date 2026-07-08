@@ -1,0 +1,24 @@
+ITERACIÓN SEMANA 10
+
+¿Qué 2 tareas del backlog harías primero?
+
+Las primeras tareas que realizaría serían permitir que los ciudadanos registren los problemas de la comunidad y enviar una alerta al coordinador cuando se reciba un nuevo reporte.
+
+
+¿Por qué son las más importantes?
+
+Porque primero debe existir una forma de registrar los problemas para que la comunidad pueda informar lo que está sucediendo. Después es necesario avisar al equipo encargado para que conozca el nuevo reporte y pueda comenzar su revisión y seguimiento.
+
+
+¿Qué significa para ti que una tarea esté terminada?
+
+Para mí, una tarea está terminada cuando funciona correctamente, fue revisada para comprobar que no presenta errores importantes y los cambios realizados quedaron guardados en el repositorio de GitHub.
+
+
+DEFINICIÓN DE TERMINADO
+
+1. La funcionalidad cumple con lo solicitado.
+
+2. La funcionalidad fue probada y funciona correctamente.
+
+3. Los cambios fueron registrados y publicados en GitHub.
